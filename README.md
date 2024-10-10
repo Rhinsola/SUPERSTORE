@@ -1,8 +1,13 @@
 ## PERIODIC DASHBOARD
 
-### OVERVIEW
+### TABLE OF CONTENT
+- [PROJECT OVERVIEW](#project-overview)
+- 
 
-OF THE PERIODIC DASHBOARD
+  
+### PROJECT OVERVIEW
+
+
 
 ### Data Source
 
@@ -24,9 +29,9 @@ This data was gotten from KAGGLE
 6. Removing of duplicates
 
 ### EXPLORATING DATA ANALYSIS
-The Problem to tackle are:
-Task (Building 3 pages of interactive report)
-Show the total sales switching as a single number using single text 
+- The Problem to tackle are:
+- Task (Building 3 pages of interactive report)
+- Show the total sales switching as a single number using single text 
 1. How sales trend over the months 
 2. How segments rank over the months
 3. Weekly average sales
@@ -35,4 +40,11 @@ Show the total sales switching as a single number using single text
 6. bottom 10 states 
 7. orders shipped to 10 states 
 8. map
+
+### DATA ANALYSIS
    
+
+
+### FINDING AND RESULT
+- Findings
+
