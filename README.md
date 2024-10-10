@@ -1,4 +1,5 @@
-## PERIODIC DASHBOARD
+## PERIODIC DASHBOARD![Screenshot (6)](https://github.com/user-attachments/assets/199d4316-c42d-422a-b25b-0ad41e8b8b83)
+
 
 ### TABLE OF CONTENT
 - [PROJECT OVERVIEW](#project-overview)
@@ -6,6 +7,7 @@
 
   
 ### PROJECT OVERVIEW
+
 
 
 
